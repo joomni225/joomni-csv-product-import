@@ -1,0 +1,23 @@
+{
+  "name": "joomni-csv-product-import",
+  "version": "1.0.0",
+  "description": "Bulk-import products into a Joomni store from a CSV file or a Shopify export, with a dry run and an error report.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "joomni-import": "bin/joomni-import.js"
+  },
+  "files": ["bin", "src", "templates", "README.md", "LICENSE"],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "check": "node --check bin/joomni-import.js && for f in src/*.js; do node --check \"$f\" || exit 1; done"
+  },
+  "keywords": ["joomni", "csv", "import", "products", "ecommerce", "shopify", "migration"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joomni225/joomni-csv-product-import.git"
+  }
+}

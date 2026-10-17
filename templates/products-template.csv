@@ -1,0 +1,5 @@
+handle,title,description,price,compare_at_price,cost_per_item,sku,barcode,inventory,track_inventory,inventory_policy,status,vendor,product_type,tags,images,seo_title,seo_description,option1_name,option1_value,option2_name,option2_value,option3_name,option3_value,variant_image
+lokta-notebook-a5,Lokta Notebook A5,"<p>Handmade lokta paper, 120 pages.</p>",1200,1500,450,LOKTA-A5,,40,yes,deny,draft,Himalayan Paper Co,Stationery,"notebook, handmade",https://example.com/lokta-1.jpg|https://example.com/lokta-2.jpg,Handmade Lokta Notebook,"A5 notebook made from lokta paper in Nepal.",,,,,,,
+cotton-tee,Organic Cotton Tee,Soft everyday tee.,1800,,700,TEE-S-WHT,,12,yes,deny,draft,Daily Fit,Clothing,"tee, cotton",https://example.com/tee.jpg,,,Size,S,Colour,White,,,
+cotton-tee,,,1800,,,TEE-M-WHT,,8,,,,,,,,,,,M,,White,,,
+cotton-tee,,,1900,,,TEE-L-BLK,,0,,,,,,,,,,,L,,Black,,,https://example.com/tee-black.jpg

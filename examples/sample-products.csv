@@ -1,0 +1,6 @@
+handle,title,description,price,compare_at_price,sku,inventory,status,vendor,product_type,tags,images,option1_name,option1_value
+gold-hoop-earrings,Gold Hoop Earrings,Lightweight everyday hoops.,1290,1590,EAR-HOOP-G,25,active,Daily Fit,Jewellery,"earrings, gold",https://images.unsplash.com/photo-1645743712276-981674c38fa0?w=1200&q=80,,
+ceramic-vase,Ceramic Vase with Dried Grass,Hand-thrown vase.,1490,,VASE-01,10,active,Daily Fit,Home,"home, decor",https://images.unsplash.com/photo-1645743713797-63900e027324?w=1200&q=80,,
+yoga-mat,Yoga Mat,"6 mm, non-slip.",2490,2990,MAT-SAGE,14,draft,Daily Fit,Fitness,"yoga, mat",https://images.unsplash.com/photo-1615397349754-cfa2066a298e?w=1200&q=80,Colour,Sage
+yoga-mat,,,2490,,MAT-SAND,9,,,,,,,Sand
+broken-row,Water Bottle,,abc,,BOTTLE-1,5,,,,,,,

@@ -1,0 +1,5 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Variant Image,Variant Weight Unit,Cost per item,Status
+linen-shirt,Linen Shirt,<p>Breathable linen.</p>,Daily Fit,,Clothing,"linen, shirt",TRUE,Size,S,,,,,LIN-S,250,shopify,4,deny,manual,3200.00,3800.00,TRUE,TRUE,,https://example.com/linen-1.jpg,1,,FALSE,Linen Shirt | Daily Fit,Breathable linen shirt.,,g,1400.00,active
+linen-shirt,,,,,,,,,M,,,,,LIN-M,250,shopify,7,deny,manual,3200.00,3800.00,TRUE,TRUE,,https://example.com/linen-2.jpg,2,,,,,,g,1400.00,
+linen-shirt,,,,,,,,,L,,,,,LIN-L,250,shopify,0,deny,manual,3400.00,3800.00,TRUE,TRUE,,,,,,,,,g,1400.00,
+gift-wrap,Gift Wrap,,Daily Fit,,Extras,,TRUE,Title,Default Title,,,,,WRAP-1,0,,,deny,manual,150.00,,TRUE,TRUE,,https://example.com/wrap.jpg,1,,FALSE,,,,g,,draft
